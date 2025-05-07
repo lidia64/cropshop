@@ -1,0 +1,29 @@
+{
+  "name": "farmers-ecommerce-platform",
+  "version": "1.0.0",
+  "description": "An e-commerce platform for farmers to sell their products.",
+  "main": "src/App.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "e-commerce",
+    "farmers",
+    "products",
+    "react"
+  ],
+  "author": "Lidia Uwineza",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-plugin-react": "^7.27.1"
+  }
+}
