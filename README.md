@@ -1,6 +1,6 @@
-# Farmers E-commerce Platform
+# cropshop Platform
 
-Welcome to the Farmers E-commerce Platform! This project is designed to empower farmers by providing them with an online marketplace to sell their products directly to consumers. 
+Welcome to cropshop! This project is designed to empower farmers by providing them with an online marketplace to sell their products directly to consumers. 
 
 ## Features
 
@@ -46,12 +46,10 @@ farmers-ecommerce-platform
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/farmers-ecommerce-platform.git
+   git clone https://github.com/lidia64/cropshop.git
    ```
 2. Navigate to the project directory:
-   ```
-   cd farmers-ecommerce-platform
-   ```
+  
 3. Install the dependencies:
    ```
    npm install
